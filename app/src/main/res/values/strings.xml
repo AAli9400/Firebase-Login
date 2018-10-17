@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Firebase Login</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="pass_min8">Password(min 8)</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="email_error">Enter Valid Email.</string>
+    <string name="password_error">"*Password length must be between 8 &amp; 20."</string>
+    <string name="password_mismatch">Password doesn\'t match.</string>
+    <string name="email_not_found">Email not found.</string>
+    <string name="wrong_password">Wrong Password.</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="used_email">Email already in use.</string>
+    <string name="select_your_country">Select Your Country</string>
+    <string name="change">Change</string>
+    <string name="email_required">*Email Required.</string>
+    <string name="please_confirm_password">Please confirm entered password.</string>
+</resources>
